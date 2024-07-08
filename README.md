@@ -6,7 +6,7 @@
 | **양유진** | **오은주** |
 
 
-## wordpress로 만든 오늘의 여행, healing
+## 리눅스를 활용하여 wordpress로 만든 오늘의 여행, healing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=healing&fontSize=90" />
 <br>
